@@ -1,5 +1,8 @@
 ## Hi there 👋
+I'm Abodiamhe, a self taught fullstack developer.
 
+## 🧑🏾‍💻 Tech Stack:
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 <!--
 **abodiamhe/abodiamhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
